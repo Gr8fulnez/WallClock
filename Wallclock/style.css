@@ -1,0 +1,18 @@
+body{
+    background: url("https://images.pexels.com/photos/5478184/pexels-photo-5478184.jpeg?auto=compress&cs=tinysrgb&w=300")
+}
+
+
+.clock{
+    font-size: 4em;
+    text-align: center;
+    margin: 300px auto;
+    color: yellow;
+    font-family: airal;
+    
+}
+
+.clock span{
+    padding: 20px;
+    background: rgba(0, 0, 255, 0.166);
+}
