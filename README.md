@@ -1,3 +1,3 @@
 # WallClock
 
-wallclockjs.netlify.app
+https://wallclockjs.netlify.app
